@@ -1,0 +1,25 @@
+.day {font-size: 40px;
+    color: #37352f;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1010;
+    line-height: 40px;
+    font-size: 40px;
+    letter-spacing: 1px
+    ;}
+
+.month {font-size: 20px;
+    color: #37352f;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 1000;
+    line-height: 5px;
+    font-size: 19px;
+    letter-spacing: 0.2px
+    ;}
+
+.year {font-size: 20px;
+    color: #37352f;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-size:19px ;
+    letter-spacing: 0.2px
+    ;}
